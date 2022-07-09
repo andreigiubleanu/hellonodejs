@@ -1,1 +1,1 @@
-console.log("Hello world\n");
+console.log("This will not be included in the final commit");
